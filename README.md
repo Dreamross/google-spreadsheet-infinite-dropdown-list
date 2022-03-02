@@ -11,4 +11,4 @@ Google spreadsheet infinite dropdown list
 <hr>
 <br>
 
-![preview]()
+![preview](https://github.com/Dreamross/google-spreadsheet-infinite-dropdown-list/blob/master/preview.gif)
