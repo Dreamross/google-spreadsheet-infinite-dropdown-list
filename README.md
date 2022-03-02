@@ -1,5 +1,5 @@
 # google-spreadsheet-infinite-dropdown-list
-Google spreadsheet infinite dropdown list
+
 <div align="center"><h4>Скрипт google sheets для бесконечных зависимых выпадающих списков  </h4></div>
 
 <hr>
